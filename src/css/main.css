@@ -1,0 +1,25 @@
+.center {
+    text-align: center;
+}
+
+.p25 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nav-bar {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    text-align: center;
+    background: #000000;
+    position: fixed;
+}
+
+.pull-left {
+    text-align: left;
+}
+
+.pull-right {
+    text-align: right;
+}
