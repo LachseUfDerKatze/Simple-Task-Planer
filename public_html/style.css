@@ -1,0 +1,74 @@
+.head-div {
+    background-color: #d1e0e1;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    padding: 45px;
+    font-weight: bold;
+    font-size: 30pt;
+}
+
+.footer-div {
+    background-color: #d1e0e1;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+}
+
+.footer-div .image-container {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.body-container {
+    padding-left: 30px;
+    padding-right: 60px;
+}
+
+.body-container .btn-container {
+    padding-left: 13px;
+}
+
+.btn-save-task {
+    background-color: #53777A;
+    color: white;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.btn-save-task:hover {
+    background-color: #03777A;
+}
+
+.btn-save-task:active {
+    border: 2px solid gray;
+}
+
+.task-table {
+    width: 90%;
+}
+
+.task-table:hover th {
+    background-color: #03777A;
+}
+
+table, th, td {
+  border: 2px solid black;
+}
+
+.task-table, td {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.task-table th {
+    background-color: #53777A;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+
+.task-table td {
+    height: 40px;
+}
